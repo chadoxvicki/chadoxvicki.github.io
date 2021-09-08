@@ -3,7 +3,7 @@
       "show": true,
       "CheckR": true,
       "com": false,
-      "published": false,
+      "published": true,
       
       "version": 1,
       "newAppLink": "",
