@@ -40,7 +40,7 @@
           "As soon as you start up Touchgrind BMX 2, take a trip to the How To section. That’s where you’ll get a tutorial on the movement basics, Base Tricks, and Flip Tricks. You’ll be doing a lot of finger gymnastics once you get really good at pulling off one or multiple tricks in midair. Once you learn the in’s and out’s of each track, you’ll start to become familiar with the parts of a track that give you big air and moderate air after a ramp jump.  When you do get moderate hang time, that’s the best time to pull off the Barspin, Tailwhip, Front Bikeflip, and Side Bikeflip. Now when it comes to coming off a ramp and getting a ton of air, that’s when it’s the best time to pull off flip tricks. During Flip Tricks, be careful not to swipe too hard – doing so will make it a bit tougher to get your bike back in a good position and not wipe out. The more masterful players of this game will be able to do some insane Flip Tricks and get their bike back to a normal position.   By the way, there’s a total of nine tracks. Highland Ruins is available from the start. You’ll need to hit Level Two and Level Seven respectively to unlock The Ridge and Devil’s Leap. As for the rest of the tracks, you’ll have to pay to get them. Each of them costs two bucks on their own (Vertigo costs three bucks, actually), but it’s possible to get them all in a “Mega Deal” for eight bucks.  Each track comes with 40 new challenges to complete, which ultimately gifts you with 600 Adrenaline points per completed track. The tracks you’ll have to purchase are Montana Alta, Grizzly Trail, The Getaway, Vertigo, Viper Valley, and West Coast. Check out the trailers for each track to get a primer on each one – you’ll be better prepared for your next trick run after doing so"
         ] 
       ],
-      "showOnlyOpen":true,
+      "showOnlyOpen":false,
       "NativeCount": 3,
       "fan": false,
       "snf": "mix",
@@ -56,9 +56,9 @@
         "admb_inters": "ca-app-pub-3940256099942544/1033173712",
         "admb_native": "ca-app-pub-3940256099942544/2247696110"
       },
-      "unity": false,
+      "unity": true,
       "adsunity": {
-        "unity_id": "3978659s",
+        "unity_id": "3978659",
         "unity_inters": "video"
       },
       
