@@ -56,7 +56,7 @@
         "admb_inters": "ca-app-pub-6865356671676191/8469143347",
         "admb_native": "ca-app-pub-6865356671676191/5719335859"
       },
-      "unity": true,
+      "unity": false,
       "adsunity": {
         "unity_id": "3978659",
         "unity_inters": "video"
