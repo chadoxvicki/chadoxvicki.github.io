@@ -1,7 +1,7 @@
     {
       
       "show": true,
-      "CheckR": true,
+      "CheckR": false,
       "com": true,
       "published": true,
       
@@ -42,7 +42,7 @@
       ],
       "showOnlyOpen":false,
       "NativeCount": 3,
-      "fan": true,
+      "fan": false,
       "snf": "nb",
       "adsfan": {
         "fan_inters": "1055542384982888_1055542431649550",
@@ -56,7 +56,7 @@
         "admb_inters": "ca-app-pub-7144089957930196/4426914419",
         "admb_native": "ca-app-pub-7144089957930196/8663534718"
       },
-      "unity": false,
+      "unity": true,
       "adsunity": {
         "unity_id": "3978659",
         "unity_inters": "video"
