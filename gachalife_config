@@ -34,11 +34,11 @@
 
       "admob": true,
       "adsadmb": {
-        "admb_banner": "ca-app-pub-1201771304789288/5972336891",
-        "admb_inters": "ca-app-pub-1201771304789288/5237839723",
-        "admb_native": "ca-app-pub-1201771304789288/9009563773",
-        "admb_native2": "ca-app-pub-1201771304789288/9009563773",
-        "admb_openad": "ca-app-pub-1201771304789288/4164431202"
+        "admb_banner": "ca-app-pub-8747919754844250/3262019863",
+        "admb_inters": "ca-app-pub-8747919754844250/6790201333",
+        "admb_native": "ca-app-pub-8747919754844250/6542789325",
+        "admb_native2": "ca-app-pub-8747919754844250/6542789325",
+        "admb_openad": "ca-app-pub-8747919754844250/4298757609"
       },
       
       "unity": false,
