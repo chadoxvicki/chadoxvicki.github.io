@@ -21,7 +21,7 @@
       "showOnlyOpen":false,
       
       "snf": "mix",
-      "fan": true,
+      "fan": false,
       "adsfan": {
  
         "fan_banner": "580844096488462_583249526247919",
